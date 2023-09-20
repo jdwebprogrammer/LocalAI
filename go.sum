@@ -49,6 +49,8 @@ github.com/go-skynet/go-llama.cpp v0.0.0-20230913071548-cc8a123bf8d5 h1:58+jbhhe
 github.com/go-skynet/go-llama.cpp v0.0.0-20230913071548-cc8a123bf8d5/go.mod h1:VGPpMv2UMxRgBiDIFrs7AGMzrX884K0Vy8tqYu3if/Q=
 github.com/go-skynet/go-llama.cpp v0.0.0-20230916071220-b471eb7d8c93 h1:aJQn0Lb5TQtSXw5hK+kAUuaUjsXwDXyEItzI9U+GiOA=
 github.com/go-skynet/go-llama.cpp v0.0.0-20230916071220-b471eb7d8c93/go.mod h1:VGPpMv2UMxRgBiDIFrs7AGMzrX884K0Vy8tqYu3if/Q=
+github.com/go-skynet/go-llama.cpp v0.0.0-20230920174813-81d0802a92cc h1:CGpn7xTATZMQLRGkpD0fNxp0qHhW5lht2PYd23845no=
+github.com/go-skynet/go-llama.cpp v0.0.0-20230920174813-81d0802a92cc/go.mod h1:uejmv9IhRLb9FMhksGXgjAhvJpFnoTOX4+Dr9Lb0HSg=
 github.com/go-task/slim-sprig v0.0.0-20210107165309-348f09dbbbc0/go.mod h1:fyg7847qk6SyHyPtNmDHnmrv/HOrqktSC+C9fM+CJOE=
 github.com/go-task/slim-sprig v0.0.0-20230315185526-52ccab3ef572 h1:tfuBGBXKqDEevZMzYi5KSi8KkcZtzBcTgAUUtapy0OI=
 github.com/go-task/slim-sprig v0.0.0-20230315185526-52ccab3ef572/go.mod h1:9Pwr4B2jHnOSGXyyzV8ROjYa2ojvAY6HCGYYfMoC3Ls=
@@ -152,6 +154,8 @@ github.com/onsi/ginkgo v1.16.4 h1:29JGrr5oVBm5ulCWet69zQkzWipVXIol6ygQUe/EzNc=
 github.com/onsi/ginkgo v1.16.4/go.mod h1:dX+/inL/fNMqNlz0e9LfyB9TswhZpCVdJM/Z6Vvnwo0=
 github.com/onsi/ginkgo/v2 v2.12.0 h1:UIVDowFPwpg6yMUpPjGkYvf06K3RAiJXUhCxEwQVHRI=
 github.com/onsi/ginkgo/v2 v2.12.0/go.mod h1:ZNEzXISYlqpb8S36iN71ifqLi3vVD1rVJGvWRCJOUpQ=
+github.com/onsi/ginkgo/v2 v2.12.1 h1:uHNEO1RP2SpuZApSkel9nEh1/Mu+hmQe7Q+Pepg5OYA=
+github.com/onsi/ginkgo/v2 v2.12.1/go.mod h1:TE309ZR8s5FsKKpuB1YAQYBzCaAfUgatB/xlT/ETL/o=
 github.com/onsi/gomega v1.7.1/go.mod h1:XdKZgCCFLUoM/7CFJVPcG8C1xQ1AJ0vpAezJrB7JYyY=
 github.com/onsi/gomega v1.10.1/go.mod h1:iN09h71vgCQne3DLsj+A5owkum+a2tYe+TOCB1ybHNo=
 github.com/onsi/gomega v1.16.0/go.mod h1:HnhC7FXeEQY45zxNK3PPoIUhzk/80Xly9PcubAlGdZY=
